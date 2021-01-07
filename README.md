@@ -12,4 +12,4 @@ Necessary requirements for implementation and testing:
 All the requirements can be achieved by contacting visa net directly.
  
 Requirements to run the application:
-Have installed .net 5 or change the TargetFramework to version 3.1 or 3.0.
+-Have installed .net 5 or change the TargetFramework to version 3.1 or 3.0.
