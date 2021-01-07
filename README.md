@@ -1,5 +1,5 @@
 # VisaNetHttp
-App to communicate with the VisaNet verifone, signature panel.
+**App to communicate with the VisaNet verifone, signature panel.**
 
 The application allows you to consume the Transaction services for a sale, Cancel a transaction and carry out a general closing.
 
@@ -9,7 +9,7 @@ Necessary requirements for implementation and testing:
 - Authentication account.
 - A card, Credit or Debit, visaNet to register.
 
-All the requirements can be achieved by contacting visa net directly.
+>All the requirements can be achieved by contacting visa net directly.
  
 Requirements to run the application:
 - Have installed .net 5 or change the TargetFramework to version 3.1 or 3.0.
