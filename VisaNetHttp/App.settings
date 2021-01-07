@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="VisaNetHttp" GeneratedClassName="App">
+  <Profiles />
+  <Settings>
+    <Setting Name="BaseUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://co.visanet.com.do:4040/</Value>
+    </Setting>
+    <Setting Name="Auth" Type="System.String" Scope="User">
+      <Value Profile="(Default)">auth</Value>
+    </Setting>
+    <Setting Name="OtherOperations" Type="System.String" Scope="User">
+      <Value Profile="(Default)">api/command</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
